@@ -1,5 +1,11 @@
 # Pendientes del Proyecto
 
+## ⚠️ Prioridad Alta
+
+- [ ] **Condensar sección 1.4.8 (Crítica al CAPM)** — es la acción de mayor impacto del análisis de ineficiencias: representa el 16% de todo el texto redundante de la tesis (~450 palabras recuperables). Los primeros 3 párrafos plantean el argumento bien; los siguientes 6 repiten la misma conclusión con distintos autores. Solución: convertir la evidencia adicional en una tabla de 5 filas (Estudio / País / Hallazgo) y reducir la sección de ~1,100 a ~650 palabras. Ver detalle completo en [`pendientes/ineficiencias-lenguaje.md`](./ineficiencias-lenguaje.md).
+
+---
+
 ## 📁 Gestión del Repositorio
 
 - [ ] Subir el `.docx` de la tesis a la carpeta `docs/` — arrastrando el archivo directamente desde GitHub.com
