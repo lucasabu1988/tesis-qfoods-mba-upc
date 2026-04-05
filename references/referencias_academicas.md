@@ -58,7 +58,7 @@
   - Fórmula EMS: `Z'' = 3.25 + 6.56X1 + 3.26X2 + 6.72X3 + 1.05X4`
 
 - **Universidad de Karachi (s.f.)**. *A Comprehensive Review of the Altman Z-Score Model*.
-  - URL: https://deanbs.uok.edu.in/Files/6d8be055-fc07-4110-8b8a-48477e9b960a/Journal/47e16e0b-c6cb-462f-8b45-71544cc457a4.pdf
+  - URL: https://deanbs.uok.edu.in/Files/6d8be055-fc07-4110-8b8a-48477e9b960a/Journal/47e16e0b-c6cb-452f-8b45-71544cc457a4.pdf
   - Uso: Explica las tres versiones del modelo (Z, Z', Z'') y su aplicación en mercados emergentes.
 
 - **Owner Journal (2022)**. *Altman Z"-Scores for financial distress predictions among food and beverage companies — Indonesia*.
@@ -85,19 +85,25 @@
 
 ---
 
-## 5. Marcos Teóricos Complementarios (pendientes de buscar)
+## 5. Marcos Teóricos Complementarios
 
-- [ ] **Robbins & Pearce (1992)**. *Turnaround: Retrenchment and Recovery*. Strategic Management Journal.
-  - Uso: Fundamento de Turnaround Theory para la introducción del Cap. IV.
+- **Robbins, D.K. & Pearce, J.A. (1992)**. *Turnaround: Retrenchment and Recovery*. Strategic Management Journal, Vol. 13(4), pp. 287–309.
+  - URL: https://www.semanticscholar.org/paper/Turnaround%3A-Retrenchment-and-recovery-Robbins-Pearce/14a76b67f2b92856ebe48185e8d474f80388f388
+  - DOI: https://sms.onlinelibrary.wiley.com/doi/10.1002/smj.4250130404
+  - Uso: Fundamento de Turnaround Theory para la introducción del Cap. IV. Modelo de dos etapas: retrenchment → recovery.
 
-- [ ] **Richards & Laughlin (1980)**. *A Cash Conversion Cycle Approach to Liquidity Analysis*.
-  - Uso: Working Capital Management para el Módulo E del SROD.
+- **Richards, V.D. & Laughlin, E.J. (1980)**. *A Cash Conversion Cycle Approach to Liquidity Analysis*. Financial Management, Vol. 9, No. 1 (Spring 1980), pp. 32–38.
+  - URL: https://ijirt.org/publishedpaper/IJIRT172180_PAPER.pdf
+  - Uso: Working Capital Management para el Módulo E del SROD. Fórmula: `CCC = RCP + ICP - PDP`.
 
-- [ ] **DiMaggio & Powell (1983)**. *The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality*.
-  - Uso: Teoría Institucional para el Cap. V de gobernanza.
+- **DiMaggio, P.J. & Powell, W.W. (1983)**. *The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizations*. American Sociological Review, 48(2), 147–160.
+  - URL: https://www.academia.edu/41967521/The_Iron_Cage_Revisited_Institutional_isomorphism_and_Collective_Rationality_in_Organizational_Fields
+  - Uso: Teoría Institucional para el Cap. V de gobernanza. Tres mecanismos: isomorfismo coercitivo, mimético y normativo.
 
-- [ ] **Silveira et al. (2020)**. *Stewardship-oriented culture, Brazil*. SciELO.
-  - Uso: Stewardship Theory en empresas familiares latinoamericanas.
+- **Silveira, R. et al. (2020)**. *Stewardship-oriented Culture and Family Firm Performance: A Study on the Moderating Effects in an Emerging Economy*. BAR – Brazilian Administration Review, Vol. 17, No. 2.
+  - URL: https://www.scielo.br/j/bar/a/ryYBQqBJj99rKvgwgcwF9YR/
+  - DOI: https://doi.org/10.1590/1807-7692bar2020180139
+  - Uso: Stewardship Theory en empresas familiares latinoamericanas; contexto Brasil directo aplicable a QFoods.
 
 ---
 
